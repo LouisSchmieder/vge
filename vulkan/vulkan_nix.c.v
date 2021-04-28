@@ -1,0 +1,3 @@
+module vulkan
+
+#flag -lvulkan
